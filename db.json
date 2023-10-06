@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Sedan",
+    "description": "A standard 4-door car."
+  },
+  {
+    "id": 2,
+    "name": "SUV",
+    "description": "A sport utility vehicle."
+  },
+  {
+    "id": 3,
+    "name": "Convertible",
+    "description": "A car with a convertible roof."
+  }
+]
